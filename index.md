@@ -26,7 +26,9 @@ I'm currently an undergraduate majoring in Electronic Science and Technology at 
 ### Skills & Hobbies
 
 - Skills
-  - C++ Programming, Python Programming, Matlab Programming, Electronic Assembly
+  - C++, Python, Matlab, Mathematica, Origin
+  - TeX, Markdown
+  - Electronic Assembly
 - Hobbies
   - Painting, Badminton, Swimming, Videogames
 
