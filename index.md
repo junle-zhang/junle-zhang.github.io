@@ -1,6 +1,3 @@
-# Junle Zhang
-
-
 ### About Me
 
 I'm a master's student in Electrical and Computer Engineering at Georgia Institute of Technology. I'm interested in Photonics, Optoelectronics, Display & Imaging and Metamaterials.
