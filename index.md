@@ -1,23 +1,23 @@
-### About Me
+## About Me
 
 I'm a master's student in Electrical and Computer Engineering at Georgia Institute of Technology. I'm interested in Photonics, Optoelectronics, Display & Imaging and Metamaterials.
 
 
-### Education
+## Education
 
-- University of California Berkeley, Jan 2023 - May 2023
+#### University of California Berkeley, Jan 2023 - May 2023
   - Visiting student
   - Relevant Coursework: Lightwave Devices(A), Microfabrication Technology(A+), Optimization Models In Engineering(A)
-- Southeast University, Sep 2020 - Jun 2024
+#### Southeast University, Sep 2020 - Jun 2024
   - B.E. in Electrical Engineering
   - Thesis: High-Performance Holographic Optical Fiber Switching
-- Georgia Institute of Technology, Aug 2024 - present
+#### Georgia Institute of Technology, Aug 2024 - present
   - M.S. in Electrical and Computer Engineering
 
 
-### Research Experience
+## Research Experience
 
-- Hyperspectral Imgaing Based on Liquid Crystal Metasurface, Southeast University
+#### Hyperspectral Imgaing Based on Liquid Crystal Metasurface, Southeast University
   - Supervisor:Haining Yang
   - Conducted literature reviews on liquid crystal, compressive sensing and spectrometers
   - Designed and optimized meta-atoms for high reconstruction performance by numerical simulations on Ansys Lumerial FDTD
@@ -25,7 +25,7 @@ I'm a master's student in Electrical and Computer Engineering at Georgia Institu
   - Examined factors affecting the image reconstruction performance
 
 
-- Circular-polarization-splitting Axicon Based on Metasurface, Southeast University
+#### Circular-polarization-splitting Axicon Based on Metasurface, Southeast University
   - Supervisor:Zheng-gao Dong
   - Gained foundational knowledge in nano-optics and computational electromagnetics and conducted literature reviews on metamaterials
   - Performed numerical simulations on CST Studio Suite to evaluate the performance of different meta-atoms
@@ -33,13 +33,13 @@ I'm a master's student in Electrical and Computer Engineering at Georgia Institu
   - Simulated and measured its performance on CST and optimized its structure for better results
 
 
-### Competitions & Awards
+## Competitions & Awards
 
 - Nanpu Scholarship
 - [The 2022 Mathematical Contest in Modeling: Outstanding Winner](https://www.contest.comap.com/undergraduate/contests/mcm/contests/2022/results/)
 
 
-### Skills & Hobbies
+## Skills & Hobbies
 
 - Skills
   - C++, Python, Matlab, Mathematica, Verilog
