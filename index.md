@@ -5,28 +5,28 @@ I'm a master's student in Electrical and Computer Engineering at Georgia Institu
 
 ## Education
 
-#### University of California Berkeley, Jan 2023 - May 2023
+### University of California Berkeley, Jan 2023 - May 2023
   - Visiting student
   - Relevant Coursework: Lightwave Devices(A), Microfabrication Technology(A+), Optimization Models In Engineering(A)
-#### Southeast University, Sep 2020 - Jun 2024
+### Southeast University, Sep 2020 - Jun 2024
   - B.E. in Electrical Engineering
   - Thesis: High-Performance Holographic Optical Fiber Switching
-#### Georgia Institute of Technology, Aug 2024 - present
+### Georgia Institute of Technology, Aug 2024 - present
   - M.S. in Electrical and Computer Engineering
 
 
 ## Research Experience
 
-#### Hyperspectral Imgaing Based on Liquid Crystal Metasurface, Southeast University
-  - Supervisor:Haining Yang
+### Hyperspectral Imgaing Based on Liquid Crystal Metasurface, Southeast University
+  - Supervisor: Haining Yang
   - Conducted literature reviews on liquid crystal, compressive sensing and spectrometers
   - Designed and optimized meta-atoms for high reconstruction performance by numerical simulations on Ansys Lumerial FDTD
   - Proposed a double-layer filter with the liquid crystal layer sandwiched between two metasurfaces, which can be electrically tuned to obtain multiple spectral responses for hyperspectral imaging
   - Examined factors affecting the image reconstruction performance
 
 
-#### Circular-polarization-splitting Axicon Based on Metasurface, Southeast University
-  - Supervisor:Zheng-gao Dong
+### Circular-polarization-splitting Axicon Based on Metasurface, Southeast University
+  - Supervisor: Zheng-gao Dong
   - Gained foundational knowledge in nano-optics and computational electromagnetics and conducted literature reviews on metamaterials
   - Performed numerical simulations on CST Studio Suite to evaluate the performance of different meta-atoms
   - Designed circular-polarization-splitting meta-axicons based on C-shaped and V-shaped meta-atoms, and developed MATLAB code to automate the construction of the designed metasurface with any wanted deflection angle and scale
