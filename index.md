@@ -20,20 +20,20 @@ I'm a master's student in Electrical and Computer Engineering at Georgia Institu
 
 ### Research Experience
 
-- Hyperspectral Imgaing Based on Liquid Crystal Metasurface
-  - Southeast University, China <p align="right">Supervisor:Haining Yang</p>
+- Hyperspectral Imgaing Based on Liquid Crystal Metasurface, Southeast University
+  - Supervisor:Haining Yang
   - Conducted literature reviews on liquid crystal, compressive sensing and spectrometers
-	- Designed and optimized meta-atoms for high reconstruction performance by numerical simulations on Ansys Lumerial FDTD
+  - Designed and optimized meta-atoms for high reconstruction performance by numerical simulations on Ansys Lumerial FDTD
   - Proposed a double-layer filter with the liquid crystal layer sandwiched between two metasurfaces, which can be electrically tuned to obtain multiple spectral responses for hyperspectral imaging
   - Examined factors affecting the image reconstruction performance
 
 
-- Circular-polarization-splitting Axicon Based on Metasurface}
-  - Southeast University, China <p align="right">Supervisor:Zheng-gao Dong</p>
-	- Gained foundational knowledge in nano-optics and computational electromagnetics and conducted literature reviews on metamaterials
-	- Performed numerical simulations on CST Studio Suite to evaluate the performance of different meta-atoms
-	- Designed circular-polarization-splitting meta-axicons based on C-shaped and V-shaped meta-atoms, and developed MATLAB code to automate the construction of the designed metasurface with any wanted deflection angle and scale
-	- Simulated and measured its performance on CST and optimized its structure for better results
+- Circular-polarization-splitting Axicon Based on Metasurface, Southeast University
+  - Supervisor:Zheng-gao Dong
+  - Gained foundational knowledge in nano-optics and computational electromagnetics and conducted literature reviews on metamaterials
+  - Performed numerical simulations on CST Studio Suite to evaluate the performance of different meta-atoms
+  - Designed circular-polarization-splitting meta-axicons based on C-shaped and V-shaped meta-atoms, and developed MATLAB code to automate the construction of the designed metasurface with any wanted deflection angle and scale
+  - Simulated and measured its performance on CST and optimized its structure for better results
 
 
 ### Competitions & Awards
